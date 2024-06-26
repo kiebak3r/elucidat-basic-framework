@@ -1,0 +1,4 @@
+playwright
+pytest-bdd
+pytest-playwright
+pytest-xdist

@@ -1,0 +1,16 @@
+Few Bugs Noticed
+score percentage returned in the console debug is not shown on UI and instead it shows the date which is not localised to the user (American format of date)
+* potentially wrong config of DB field for date
+
+Guilty / Non Guilty radio buttons are inverted
+* Also suggestion to add a change answer button
+
+Font colour on continue > button is wrong colour and hard to read
+
+Future Testing
+* Implement further automated test coverage
+* UI Automation of vimeo iframe
+* Browser / device coverage IE - opera, mobile, tablet, etc (currently will test chromium, firefox)
+* Most element cards are popup modals, be interesting to see how they interact with a popup blocker enabled.
+* Load testing of site performance
+* Progression caching when page reloads or closes unexpectedly
